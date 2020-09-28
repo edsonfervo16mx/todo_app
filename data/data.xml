@@ -1,0 +1,22 @@
+<odoo>
+	<record model="todo.app" id="todo_app.tarea_1">
+		<field name="name">Tarea #1: Barrer</field>
+		<field name="state">Borrador</field>
+	</record>
+	<record model="todo.app" id="todo_app.tarea_2">
+		<field name="name">Tarea #2: Comer</field>
+		<field name="state">Pendiente</field>
+	</record>
+	<record model="todo.app" id="todo_app.tarea_3">
+		<field name="name">Tarea #3: Programar</field>
+		<field name="state">Terminado</field>
+	</record>
+	<record model="todo.app" id="todo_app.tarea_4">
+		<field name="name">Tarea #4: Descansar</field>
+		<field name="state">Terminado</field>
+	</record>
+	<record model="todo.app" id="todo_app.tarea_5">
+		<field name="name">Tarea #5: Jugar</field>
+		<field name="state">Pendiente</field>
+	</record>
+</odoo>
